@@ -1,9 +1,8 @@
 ---
 layout: post
 title: zoes post
-date: 2016-05-28 15:46
+date: 2022-06-13 15:46
 comments: true
-external-url:
-categories: Mathematics
+categories: post
 ---
 hello 
