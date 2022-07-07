@@ -18,4 +18,5 @@ hello im zoe lol
 10 June 2022 - i did not go to work :(
 13 June 2022 - My group and i created a map of DFS using google drawings and  i continued working on my powerpoint slides on RPA Uipath
 14 June 2022 - i attended a drone simulator workshop and experimented with the ways to fly the drone and manoeuvre the drone
-15 June 2022 - 
+15 June 2022 - i continued on with my Rpa learning and powerpoint making
+16 June 2022 - 
